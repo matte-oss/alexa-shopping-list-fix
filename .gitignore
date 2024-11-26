@@ -1,0 +1,9 @@
+env/
+research/
+cookies.json
+server/cookies.json
+server/config.json
+__pycache__
+old/
+server/cache
+.DS_Store
